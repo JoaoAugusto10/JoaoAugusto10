@@ -1,5 +1,5 @@
 <!-- Adicione o GIF como uma imagem no topo -->
-<img src="[Papel De Parede Gif](https://github.com/user-attachments/assets/6a5988f0-49a6-4418-a38e-4afff3954207)" width="100%" alt="Background GIF"/>
+<img src="https://github.com/user-attachments/assets/6a5988f0-49a6-4418-a38e-4afff3954207" width="100%" alt="Background GIF"/>
 
 <!-- Cabeçalho -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
