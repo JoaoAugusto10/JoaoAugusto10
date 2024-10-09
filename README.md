@@ -9,12 +9,11 @@
 <br/>
 
 <!-- Estatísticas GitHub -->
-<div align="center">   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoAugusto10&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&v=1" alt="JoaoAugusto10 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAugusto10&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&v=1" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoAugusto10&theme=tokyonight&v=1" alt="JoaoAugusto10 streak" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joao_Augusto&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Joao_Augusto github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao_Augusto &layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-Joao_Augusto&&theme=tokyonight" alt="luccahiratsuca" />
 </div>
-
 
 <br/>
 
